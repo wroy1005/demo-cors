@@ -1,0 +1,19 @@
+{
+  "apps": [
+    {
+      "name": "server1",
+      "script": "node server1.js",
+      "watch": "./"
+    },
+    {
+      "name": "server2",
+      "script": "node server2.js",
+      "watch": "./"
+    },
+    {
+      "name": "server3",
+      "script": "node server3.js",
+      "watch": "./"
+    }
+  ]
+}
